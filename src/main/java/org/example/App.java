@@ -3,7 +3,7 @@ package org.example;
 import java.lang.reflect.*;
 import java.util.Date;
 
-public class App {
+public class  App {
 
     static private final class Test {
         public String s1 = "Hello";
